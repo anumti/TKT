@@ -26,6 +26,4 @@ Ensin keskitytään esseen itse sisältöön. Tarkista, eteneekö essee loogises
 =======
 Ensin keskitytään esseen itse sisältöön. Tarkista, eteneekö essee loogisesti ja että onko asiat esitetty selvästi. Jos essee on tyypiltään pohtiva, löytyykö esseestä teesi ja sitä tukevia argumentteja? Jos esseen tarkoitus on osoittaa osaamistasi, oletko määritellyt keskeiset termit ja “opettanut” asian selkeästi? Lähtökohtaisesti essee tulisi kirjoittaa niin, että kuka tahansa yleissivistyksen omaava henkilö voi sen ymmärtää. Lopuksi hiotaan vielä kieliasu kuntoon. Editointi on esseen kirjoittamisen oleellinen askel, joka monilla kuitenkin unohtuu. Tunnin kokeessa editoinnille kannattaa varata aikaa ainakin kokeen viimeiset viisi minuuttia, ehkä jopa 10 minuuttia. Jos olet aiemmin kirjoittanut esseitä ilman suunnittelua tai editointia, niin ne vaiheet saattavat kuulostaa turhilta ja työläiltä. Saatat kuitenkin yllättyä, kuinka ne sekä helpottavat esseen kirjoittamista, että parantavat lopputulosta. Muista lopuksi tarkastaa oikeinkirjoitus.
 
-Tarkasta teksti vielä kerran ennen sen lähettämistä
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+Tarkasta teksti vielä kerran ennen sen lähettämistä.
